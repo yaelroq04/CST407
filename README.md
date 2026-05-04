@@ -24,6 +24,6 @@ comprehension and effort.
 
 ## Course Info
 
-**Course:** CST 407 - Python For AI
-**Institution:** Oregon Institute of Technology (OIT)
-**Repo Owner:** [yaelroq04](https://github.com/yaelroq04)
+**Course:** CST 407 - Python For AI. 
+**Institution:** Oregon Institute of Technology (OIT). 
+**Repo Owner:** [yaelroq04](https://github.com/yaelroq04). 
